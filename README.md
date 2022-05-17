@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Data science
 - 🌱 I’m currently learning ... Machine learning
 - 💞️ I’m looking to collaborate on ...Data science
-- 📫 How to reach me ... [Mail](sarathkumar2607@outlook.com)
+- 📫 How to reach me ... sarathkumar2607@outlook.com
