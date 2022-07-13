@@ -10,13 +10,11 @@ Hi, my name is SarathKumar and I am a developer. I'm from India, currently livin
 - 📫 reach me [Mail](mailto:sarathkumar2607@outlook.com)
 
 
-⚠️ under construction
-⚠️ under construction
-⚠️ under construction
-⚠️ under construction
-⚠️ under construction
-⚠️ under construction
-
-
 ## 🔧 Languages & Tools
 
+⚠️ under construction
+⚠️ under construction
+⚠️ under construction
+⚠️ under construction
+⚠️ under construction
+⚠️ under construction
